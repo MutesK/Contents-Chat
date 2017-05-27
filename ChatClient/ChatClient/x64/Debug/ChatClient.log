@@ -1,0 +1,11 @@
+﻿  WinMain.cpp
+d:\workspace\chatclient\chatclient\winmain.cpp(44): warning C4552: '!=': 의미 없는 연산자입니다. 파생 작업이 있는 연산자여야 합니다.
+d:\workspace\chatclient\chatclient\winmain.cpp(50): warning C4552: '!=': 의미 없는 연산자입니다. 파생 작업이 있는 연산자여야 합니다.
+d:\workspace\chatclient\chatclient\winmain.cpp(87): warning C4002: 'RtlZeroMemory' 매크로의 실제 매개 변수가 너무 많습니다.
+d:\workspace\chatclient\chatclient\winmain.cpp(91): warning C4002: 'RtlZeroMemory' 매크로의 실제 매개 변수가 너무 많습니다.
+d:\workspace\chatclient\chatclient\winmain.cpp(176): warning C4244: '=': 'LRESULT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\workspace\chatclient\chatclient\winmain.cpp(225): warning C4244: '=': 'LRESULT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\workspace\chatclient\chatclient\winmain.cpp(241): warning C4244: '초기화 중': 'LRESULT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Network.cpp
+  코드를 생성하고 있습니다...
+LINK : fatal error LNK1104: 'D:\Workspace\ChatClient\x64\Debug\ChatClient.exe' 파일을 열 수 없습니다.

@@ -1,0 +1,391 @@
+﻿  main.cpp
+c:\program files (x86)\windows kits\8.1\include\shared\ws2def.h(100): warning C4005: 'AF_IPX': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(452): note: 'AF_IPX'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\shared\ws2def.h(140): warning C4005: 'AF_MAX': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(471): note: 'AF_MAX'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\shared\ws2def.h(177): warning C4005: 'SO_DONTLINGER': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(394): note: 'SO_DONTLINGER'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\shared\ws2def.h(221): error C2011: 'sockaddr': 'struct' 형식 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(1002): note: 'sockaddr' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\shared\ws2def.h(421): error C2059: 구문 오류: '상수'
+c:\program files (x86)\windows kits\8.1\include\shared\ws2def.h(421): error C3805: '상수': 예기치 않은 토큰이 있습니다. '}' 또는 ','가 필요합니다.
+c:\program files (x86)\windows kits\8.1\include\shared\ws2def.h(556): warning C4005: 'IN_CLASSA': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(279): note: 'IN_CLASSA'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\shared\ws2def.h(562): warning C4005: 'IN_CLASSB': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(285): note: 'IN_CLASSB'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\shared\ws2def.h(568): warning C4005: 'IN_CLASSC': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(291): note: 'IN_CLASSC'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\shared\ws2def.h(579): warning C4005: 'INADDR_ANY': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(296): note: 'INADDR_ANY'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\shared\ws2def.h(581): warning C4005: 'INADDR_BROADCAST': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(298): note: 'INADDR_BROADCAST'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\shared\ws2def.h(615): error C2011: 'sockaddr_in': 'struct' 형식 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(1006): note: 'sockaddr_in' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(136): error C2011: 'fd_set': 'struct' 형식 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(1014): note: 'fd_set' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(156): warning C4005: 'FD_CLR': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(89): note: 'FD_CLR'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(171): warning C4005: 'FD_SET': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(94): note: 'FD_SET'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(180): error C2011: 'timeval': 'struct' 형식 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(1030): note: 'timeval' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(236): error C2011: 'hostent': 'struct' 형식 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(1018): note: 'hostent' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(249): error C2011: 'netent': 'struct' 형식 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(172): note: 'netent' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(256): error C2011: 'servent': 'struct' 형식 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(1022): note: 'servent' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(268): error C2011: 'protoent': 'struct' 형식 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(1026): note: 'protoent' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(364): error C2011: 'WSAData': 'struct' 형식 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(314): note: 'WSAData' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(462): error C2011: 'sockproto': 'struct' 형식 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(486): note: 'sockproto' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(504): error C2011: 'linger': 'struct' 형식 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(1010): note: 'linger' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(517): warning C4005: 'SOMAXCONN': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(536): note: 'SOMAXCONN'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(551): warning C4005: 'FD_READ': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(554): note: 'FD_READ'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(554): warning C4005: 'FD_WRITE': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(555): note: 'FD_WRITE'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(557): warning C4005: 'FD_OOB': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(556): note: 'FD_OOB'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(560): warning C4005: 'FD_ACCEPT': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(557): note: 'FD_ACCEPT'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(563): warning C4005: 'FD_CONNECT': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(558): note: 'FD_CONNECT'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(566): warning C4005: 'FD_CLOSE': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(559): note: 'FD_CLOSE'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1646): error C2375: 'accept': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(734): note: 'accept' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1668): error C2375: 'bind': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(739): note: 'bind' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1689): error C2375: 'closesocket': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(744): note: 'closesocket' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1706): error C2375: 'connect': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(746): note: 'connect' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1727): error C2375: 'ioctlsocket': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(751): note: 'ioctlsocket' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1748): error C2375: 'getpeername': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(756): note: 'getpeername' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1769): error C2375: 'getsockname': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(761): note: 'getsockname' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1790): error C2375: 'getsockopt': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(766): note: 'getsockopt' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1815): error C2375: 'htonl': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(773): note: 'htonl' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1832): error C2375: 'htons': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(775): note: 'htons' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850): error C2375: 'inet_addr': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(777): note: 'inet_addr' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): error C2375: 'inet_ntoa': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(779): note: 'inet_ntoa' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1968): error C2375: 'listen': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(781): note: 'listen' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1987): error C2375: 'ntohl': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(785): note: 'ntohl' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2004): error C2375: 'ntohs': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(787): note: 'ntohs' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2021): error C2375: 'recv': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(789): note: 'recv' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2044): error C2375: 'recvfrom': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(795): note: 'recvfrom' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2071): error C2375: 'select': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(803): note: 'select' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2096): error C2375: 'send': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(810): note: 'send' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2119): error C2375: 'sendto': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(816): note: 'sendto' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2146): error C2375: 'setsockopt': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(824): note: 'setsockopt' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2171): error C2375: 'shutdown': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(831): note: 'shutdown' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2191): error C2375: 'socket': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(835): note: 'socket' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2216): error C2375: 'gethostbyaddr': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(842): note: 'gethostbyaddr' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2238): error C2375: 'gethostbyname': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(847): note: 'gethostbyname' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2255): error C2375: 'gethostname': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(849): note: 'gethostname' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2295): error C2375: 'getservbyport': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(853): note: 'getservbyport' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2314): error C2375: 'getservbyname': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(857): note: 'getservbyname' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2333): error C2375: 'getprotobynumber': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(861): note: 'getprotobynumber' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2350): error C2375: 'getprotobyname': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(863): note: 'getprotobyname' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2370): error C2375: 'WSAStartup': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(867): note: 'WSAStartup' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2390): error C2375: 'WSACleanup': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(871): note: 'WSACleanup' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2407): error C2375: 'WSASetLastError': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(873): note: 'WSASetLastError' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2424): error C2375: 'WSAGetLastError': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(875): note: 'WSAGetLastError' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2445): error C2375: 'WSAIsBlocking': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(877): note: 'WSAIsBlocking' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2463): error C2375: 'WSAUnhookBlockingHook': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(879): note: 'WSAUnhookBlockingHook' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2481): error C2375: 'WSASetBlockingHook': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(881): note: 'WSASetBlockingHook' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2499): error C2375: 'WSACancelBlockingCall': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(883): note: 'WSACancelBlockingCall' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2517): error C2375: 'WSAAsyncGetServByName': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(885): note: 'WSAAsyncGetServByName' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2545): error C2375: 'WSAAsyncGetServByPort': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(893): note: 'WSAAsyncGetServByPort' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2573): error C2375: 'WSAAsyncGetProtoByName': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(901): note: 'WSAAsyncGetProtoByName' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2599): error C2375: 'WSAAsyncGetProtoByNumber': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(908): note: 'WSAAsyncGetProtoByNumber' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2625): error C2375: 'WSAAsyncGetHostByName': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(915): note: 'WSAAsyncGetHostByName' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2651): error C2375: 'WSAAsyncGetHostByAddr': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(922): note: 'WSAAsyncGetHostByAddr' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2681): error C2375: 'WSACancelAsyncRequest': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(931): note: 'WSACancelAsyncRequest' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2699): error C2375: 'WSAAsyncSelect': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(933): note: 'WSAAsyncSelect' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\shared\ws2ipdef.h(76): error C2079: 'sockaddr_gen::Address'은(는) 정의되지 않은 struct 'sockaddr'을(를) 사용합니다.
+c:\program files (x86)\windows kits\8.1\include\shared\ws2ipdef.h(77): error C2079: 'sockaddr_gen::AddressIn'은(는) 정의되지 않은 struct 'sockaddr_in'을(를) 사용합니다.
+c:\program files (x86)\windows kits\8.1\include\shared\ws2ipdef.h(120): warning C4005: 'IP_TOS': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(344): note: 'IP_TOS'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\shared\ws2ipdef.h(121): warning C4005: 'IP_TTL': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(343): note: 'IP_TTL'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\shared\ws2ipdef.h(122): warning C4005: 'IP_MULTICAST_IF': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(338): note: 'IP_MULTICAST_IF'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\shared\ws2ipdef.h(123): warning C4005: 'IP_MULTICAST_TTL': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(339): note: 'IP_MULTICAST_TTL'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\shared\ws2ipdef.h(124): warning C4005: 'IP_MULTICAST_LOOP': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(340): note: 'IP_MULTICAST_LOOP'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\shared\ws2ipdef.h(125): warning C4005: 'IP_ADD_MEMBERSHIP': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(341): note: 'IP_ADD_MEMBERSHIP'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\shared\ws2ipdef.h(126): warning C4005: 'IP_DROP_MEMBERSHIP': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(342): note: 'IP_DROP_MEMBERSHIP'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\shared\ws2ipdef.h(127): warning C4005: 'IP_DONTFRAGMENT': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(345): note: 'IP_DONTFRAGMENT'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\shared\ws2ipdef.h(202): error C2079: '_SOCKADDR_INET::Ipv4'은(는) 정의되지 않은 struct 'sockaddr_in'을(를) 사용합니다.
+c:\program files (x86)\windows kits\8.1\include\shared\ws2ipdef.h(715): error C2011: 'ip_mreq': 'struct' 형식 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(355): note: 'ip_mreq' 선언을 참조하십시오.
+d:\workspace\chatserver\chatserver\chat.h(11): error C2079: 'st_CLIENT::_clientAddr'은(는) 정의되지 않은 struct 'sockaddr_in'을(를) 사용합니다.
+  Chat.cpp
+c:\program files (x86)\windows kits\8.1\include\shared\ws2def.h(100): warning C4005: 'AF_IPX': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(452): note: 'AF_IPX'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\shared\ws2def.h(140): warning C4005: 'AF_MAX': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(471): note: 'AF_MAX'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\shared\ws2def.h(177): warning C4005: 'SO_DONTLINGER': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(394): note: 'SO_DONTLINGER'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\shared\ws2def.h(221): error C2011: 'sockaddr': 'struct' 형식 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(1002): note: 'sockaddr' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\shared\ws2def.h(421): error C2059: 구문 오류: '상수'
+c:\program files (x86)\windows kits\8.1\include\shared\ws2def.h(421): error C3805: '상수': 예기치 않은 토큰이 있습니다. '}' 또는 ','가 필요합니다.
+c:\program files (x86)\windows kits\8.1\include\shared\ws2def.h(556): warning C4005: 'IN_CLASSA': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(279): note: 'IN_CLASSA'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\shared\ws2def.h(562): warning C4005: 'IN_CLASSB': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(285): note: 'IN_CLASSB'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\shared\ws2def.h(568): warning C4005: 'IN_CLASSC': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(291): note: 'IN_CLASSC'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\shared\ws2def.h(579): warning C4005: 'INADDR_ANY': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(296): note: 'INADDR_ANY'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\shared\ws2def.h(581): warning C4005: 'INADDR_BROADCAST': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(298): note: 'INADDR_BROADCAST'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\shared\ws2def.h(615): error C2011: 'sockaddr_in': 'struct' 형식 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(1006): note: 'sockaddr_in' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(136): error C2011: 'fd_set': 'struct' 형식 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(1014): note: 'fd_set' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(156): warning C4005: 'FD_CLR': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(89): note: 'FD_CLR'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(171): warning C4005: 'FD_SET': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(94): note: 'FD_SET'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(180): error C2011: 'timeval': 'struct' 형식 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(1030): note: 'timeval' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(236): error C2011: 'hostent': 'struct' 형식 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(1018): note: 'hostent' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(249): error C2011: 'netent': 'struct' 형식 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(172): note: 'netent' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(256): error C2011: 'servent': 'struct' 형식 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(1022): note: 'servent' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(268): error C2011: 'protoent': 'struct' 형식 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(1026): note: 'protoent' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(364): error C2011: 'WSAData': 'struct' 형식 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(314): note: 'WSAData' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(462): error C2011: 'sockproto': 'struct' 형식 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(486): note: 'sockproto' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(504): error C2011: 'linger': 'struct' 형식 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(1010): note: 'linger' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(517): warning C4005: 'SOMAXCONN': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(536): note: 'SOMAXCONN'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(551): warning C4005: 'FD_READ': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(554): note: 'FD_READ'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(554): warning C4005: 'FD_WRITE': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(555): note: 'FD_WRITE'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(557): warning C4005: 'FD_OOB': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(556): note: 'FD_OOB'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(560): warning C4005: 'FD_ACCEPT': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(557): note: 'FD_ACCEPT'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(563): warning C4005: 'FD_CONNECT': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(558): note: 'FD_CONNECT'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(566): warning C4005: 'FD_CLOSE': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(559): note: 'FD_CLOSE'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1646): error C2375: 'accept': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(734): note: 'accept' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1668): error C2375: 'bind': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(739): note: 'bind' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1689): error C2375: 'closesocket': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(744): note: 'closesocket' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1706): error C2375: 'connect': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(746): note: 'connect' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1727): error C2375: 'ioctlsocket': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(751): note: 'ioctlsocket' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1748): error C2375: 'getpeername': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(756): note: 'getpeername' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1769): error C2375: 'getsockname': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(761): note: 'getsockname' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1790): error C2375: 'getsockopt': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(766): note: 'getsockopt' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1815): error C2375: 'htonl': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(773): note: 'htonl' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1832): error C2375: 'htons': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(775): note: 'htons' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850): error C2375: 'inet_addr': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(777): note: 'inet_addr' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868): error C2375: 'inet_ntoa': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(779): note: 'inet_ntoa' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1968): error C2375: 'listen': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(781): note: 'listen' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1987): error C2375: 'ntohl': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(785): note: 'ntohl' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2004): error C2375: 'ntohs': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(787): note: 'ntohs' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2021): error C2375: 'recv': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(789): note: 'recv' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2044): error C2375: 'recvfrom': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(795): note: 'recvfrom' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2071): error C2375: 'select': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(803): note: 'select' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2096): error C2375: 'send': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(810): note: 'send' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2119): error C2375: 'sendto': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(816): note: 'sendto' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2146): error C2375: 'setsockopt': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(824): note: 'setsockopt' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2171): error C2375: 'shutdown': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(831): note: 'shutdown' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2191): error C2375: 'socket': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(835): note: 'socket' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2216): error C2375: 'gethostbyaddr': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(842): note: 'gethostbyaddr' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2238): error C2375: 'gethostbyname': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(847): note: 'gethostbyname' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2255): error C2375: 'gethostname': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(849): note: 'gethostname' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2295): error C2375: 'getservbyport': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(853): note: 'getservbyport' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2314): error C2375: 'getservbyname': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(857): note: 'getservbyname' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2333): error C2375: 'getprotobynumber': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(861): note: 'getprotobynumber' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2350): error C2375: 'getprotobyname': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(863): note: 'getprotobyname' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2370): error C2375: 'WSAStartup': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(867): note: 'WSAStartup' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2390): error C2375: 'WSACleanup': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(871): note: 'WSACleanup' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2407): error C2375: 'WSASetLastError': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(873): note: 'WSASetLastError' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2424): error C2375: 'WSAGetLastError': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(875): note: 'WSAGetLastError' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2445): error C2375: 'WSAIsBlocking': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(877): note: 'WSAIsBlocking' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2463): error C2375: 'WSAUnhookBlockingHook': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(879): note: 'WSAUnhookBlockingHook' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2481): error C2375: 'WSASetBlockingHook': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(881): note: 'WSASetBlockingHook' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2499): error C2375: 'WSACancelBlockingCall': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(883): note: 'WSACancelBlockingCall' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2517): error C2375: 'WSAAsyncGetServByName': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(885): note: 'WSAAsyncGetServByName' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2545): error C2375: 'WSAAsyncGetServByPort': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(893): note: 'WSAAsyncGetServByPort' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2573): error C2375: 'WSAAsyncGetProtoByName': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(901): note: 'WSAAsyncGetProtoByName' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2599): error C2375: 'WSAAsyncGetProtoByNumber': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(908): note: 'WSAAsyncGetProtoByNumber' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2625): error C2375: 'WSAAsyncGetHostByName': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(915): note: 'WSAAsyncGetHostByName' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2651): error C2375: 'WSAAsyncGetHostByAddr': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(922): note: 'WSAAsyncGetHostByAddr' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2681): error C2375: 'WSACancelAsyncRequest': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(931): note: 'WSACancelAsyncRequest' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(2699): error C2375: 'WSAAsyncSelect': 재정의. 링크가 다릅니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(933): note: 'WSAAsyncSelect' 선언을 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\shared\ws2ipdef.h(76): error C2079: 'sockaddr_gen::Address'은(는) 정의되지 않은 struct 'sockaddr'을(를) 사용합니다.
+c:\program files (x86)\windows kits\8.1\include\shared\ws2ipdef.h(77): error C2079: 'sockaddr_gen::AddressIn'은(는) 정의되지 않은 struct 'sockaddr_in'을(를) 사용합니다.
+c:\program files (x86)\windows kits\8.1\include\shared\ws2ipdef.h(120): warning C4005: 'IP_TOS': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(344): note: 'IP_TOS'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\shared\ws2ipdef.h(121): warning C4005: 'IP_TTL': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(343): note: 'IP_TTL'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\shared\ws2ipdef.h(122): warning C4005: 'IP_MULTICAST_IF': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(338): note: 'IP_MULTICAST_IF'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\shared\ws2ipdef.h(123): warning C4005: 'IP_MULTICAST_TTL': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(339): note: 'IP_MULTICAST_TTL'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\shared\ws2ipdef.h(124): warning C4005: 'IP_MULTICAST_LOOP': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(340): note: 'IP_MULTICAST_LOOP'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\shared\ws2ipdef.h(125): warning C4005: 'IP_ADD_MEMBERSHIP': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(341): note: 'IP_ADD_MEMBERSHIP'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\shared\ws2ipdef.h(126): warning C4005: 'IP_DROP_MEMBERSHIP': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(342): note: 'IP_DROP_MEMBERSHIP'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\shared\ws2ipdef.h(127): warning C4005: 'IP_DONTFRAGMENT': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(345): note: 'IP_DONTFRAGMENT'의 이전 정의를 참조하십시오.
+c:\program files (x86)\windows kits\8.1\include\shared\ws2ipdef.h(202): error C2079: '_SOCKADDR_INET::Ipv4'은(는) 정의되지 않은 struct 'sockaddr_in'을(를) 사용합니다.
+c:\program files (x86)\windows kits\8.1\include\shared\ws2ipdef.h(715): error C2011: 'ip_mreq': 'struct' 형식 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winsock.h(355): note: 'ip_mreq' 선언을 참조하십시오.
+d:\workspace\chatserver\chatserver\chat.h(11): error C2079: 'st_CLIENT::_clientAddr'은(는) 정의되지 않은 struct 'sockaddr_in'을(를) 사용합니다.
+d:\workspace\chatserver\chatserver\chat.cpp(13): error C2079: 'wsaData'은(는) 정의되지 않은 struct 'WSAData'을(를) 사용합니다.
+d:\workspace\chatserver\chatserver\chat.cpp(16): error C2568: '=': 함수 오버로드를 확인할 수 없습니다.
+  d:\workspace\chatserver\chatserver\chat.cpp(16): note: 'SOCKET socket(int,int,int)'일 수 있습니다.
+d:\workspace\chatserver\chatserver\chat.cpp(18): error C2079: 'servAddr'은(는) 정의되지 않은 struct 'sockaddr_in'을(를) 사용합니다.
+d:\workspace\chatserver\chatserver\chat.cpp(20): error C2228: '.sin_family' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+  d:\workspace\chatserver\chatserver\chat.cpp(20): note: 'int' 형식입니다.
+d:\workspace\chatserver\chatserver\chat.cpp(21): error C2228: '.sin_addr' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+  d:\workspace\chatserver\chatserver\chat.cpp(21): note: 'int' 형식입니다.
+d:\workspace\chatserver\chatserver\chat.cpp(21): error C2660: 'InetPtonW': 함수는 2개의 매개 변수를 사용하지 않습니다.
+d:\workspace\chatserver\chatserver\chat.cpp(22): error C2228: '.sin_port' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+  d:\workspace\chatserver\chatserver\chat.cpp(22): note: 'int' 형식입니다.
+d:\workspace\chatserver\chatserver\chat.cpp(40): error C2079: 'RSet'은(는) 정의되지 않은 struct 'fd_set'을(를) 사용합니다.
+d:\workspace\chatserver\chatserver\chat.cpp(40): error C2079: 'WSet'은(는) 정의되지 않은 struct 'fd_set'을(를) 사용합니다.
+d:\workspace\chatserver\chatserver\chat.cpp(41): error C2079: 'time'은(는) 정의되지 않은 struct 'timeval'을(를) 사용합니다.
+d:\workspace\chatserver\chatserver\chat.cpp(42): error C2228: '.tv_sec' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+  d:\workspace\chatserver\chatserver\chat.cpp(42): note: 'int' 형식입니다.
+d:\workspace\chatserver\chatserver\chat.cpp(43): error C2228: '.tv_usec' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+  d:\workspace\chatserver\chatserver\chat.cpp(43): note: 'int' 형식입니다.
+d:\workspace\chatserver\chatserver\chat.cpp(53): error C2027: 정의되지 않은 형식 'fd_set'을(를) 사용했습니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(4252): note: 'fd_set' 선언을 참조하십시오.
+d:\workspace\chatserver\chatserver\chat.cpp(53): error C2227: '->fd_count' 왼쪽은 클래스/구조체/공용 구조체/제네릭 형식을 가리켜야 합니다.
+d:\workspace\chatserver\chatserver\chat.cpp(54): error C2027: 정의되지 않은 형식 'fd_set'을(를) 사용했습니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(4252): note: 'fd_set' 선언을 참조하십시오.
+d:\workspace\chatserver\chatserver\chat.cpp(54): error C2227: '->fd_count' 왼쪽은 클래스/구조체/공용 구조체/제네릭 형식을 가리켜야 합니다.
+d:\workspace\chatserver\chatserver\chat.cpp(57): error C2027: 정의되지 않은 형식 'fd_set'을(를) 사용했습니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(4252): note: 'fd_set' 선언을 참조하십시오.
+d:\workspace\chatserver\chatserver\chat.cpp(57): error C2227: '->fd_count' 왼쪽은 클래스/구조체/공용 구조체/제네릭 형식을 가리켜야 합니다.
+d:\workspace\chatserver\chatserver\chat.cpp(57): error C2227: '->fd_array' 왼쪽은 클래스/구조체/공용 구조체/제네릭 형식을 가리켜야 합니다.
+d:\workspace\chatserver\chatserver\chat.cpp(68): error C2027: 정의되지 않은 형식 'fd_set'을(를) 사용했습니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(4252): note: 'fd_set' 선언을 참조하십시오.
+d:\workspace\chatserver\chatserver\chat.cpp(68): error C2227: '->fd_count' 왼쪽은 클래스/구조체/공용 구조체/제네릭 형식을 가리켜야 합니다.
+d:\workspace\chatserver\chatserver\chat.cpp(68): error C2227: '->fd_array' 왼쪽은 클래스/구조체/공용 구조체/제네릭 형식을 가리켜야 합니다.
+d:\workspace\chatserver\chatserver\chat.cpp(70): error C2027: 정의되지 않은 형식 'fd_set'을(를) 사용했습니다.
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(4252): note: 'fd_set' 선언을 참조하십시오.
+d:\workspace\chatserver\chatserver\chat.cpp(70): error C2227: '->fd_count' 왼쪽은 클래스/구조체/공용 구조체/제네릭 형식을 가리켜야 합니다.
+d:\workspace\chatserver\chatserver\chat.cpp(70): error C2227: '->fd_array' 왼쪽은 클래스/구조체/공용 구조체/제네릭 형식을 가리켜야 합니다.
+d:\workspace\chatserver\chatserver\chat.cpp(76): error C2440: '초기화 중': 'int (__stdcall *)(int,fd_set *,fd_set *,fd_set *,const timeval *)'에서 'int'(으)로 변환할 수 없습니다.
+  d:\workspace\chatserver\chatserver\chat.cpp(76): note: 이 변환이 가능한 컨텍스트가 없습니다.
+d:\workspace\chatserver\chatserver\chat.cpp(100): error C2440: '초기화 중': 'int (__stdcall *)(SOCKET,char *,int,int)'에서 'int'(으)로 변환할 수 없습니다.
+  d:\workspace\chatserver\chatserver\chat.cpp(100): note: 이 변환이 가능한 컨텍스트가 없습니다.
+d:\workspace\chatserver\chatserver\chat.cpp(125): error C2568: '=': 함수 오버로드를 확인할 수 없습니다.
+  d:\workspace\chatserver\chatserver\chat.cpp(125): note: 'SOCKET accept(SOCKET,sockaddr *,int *)'일 수 있습니다.
+d:\workspace\chatserver\chatserver\chat.cpp(145): error C2568: '=': 함수 오버로드를 확인할 수 없습니다.
+  d:\workspace\chatserver\chatserver\chat.cpp(145): note: 'int recv(SOCKET,char *,int,int)'일 수 있습니다.
+  코드를 생성하고 있습니다...
