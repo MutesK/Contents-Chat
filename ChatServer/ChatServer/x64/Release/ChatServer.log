@@ -1,12 +1,2 @@
-﻿  Chat.cpp
-Chat.cpp(480): warning C4267: '초기화 중': 'size_t'에서 'WORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-Chat.cpp(497): warning C4267: '초기화 중': 'size_t'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-Chat.cpp(500): warning C4101: 'szNicName' :참조되지 않은 지역 변수입니다.
-  코드를 생성하고 있습니다.
-d:\workspace\chat\chatserver\chatserver\chat.cpp(759): warning C4715: 'SendPacketProc': 모든 제어 경로에서 값을 반환하지는 않습니다.
-  1 of 242 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    1 functions had inline decision re-evaluated but remain unchanged
-  코드를 생성했습니다.
-  ChatServer.vcxproj -> D:\Workspace\Chat\ChatServer\x64\Release\ChatServer.exe
-  ChatServer.vcxproj -> D:\Workspace\Chat\ChatServer\x64\Release\ChatServer.pdb (Full PDB)
+﻿  ChatServer.vcxproj -> C:\Users\Mute\Documents\GitHub\Contents-Chat\ChatServer\x64\Release\ChatServer.exe
+  ChatServer.vcxproj -> C:\Users\Mute\Documents\GitHub\Contents-Chat\ChatServer\x64\Release\ChatServer.pdb (Full PDB)
